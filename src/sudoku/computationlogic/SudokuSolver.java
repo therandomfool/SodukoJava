@@ -1,5 +1,5 @@
 package sudoku.computationlogic;
 
 public class SudokuSolver {
-    1.06.57
+        1.06.57
 }
