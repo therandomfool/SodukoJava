@@ -29,4 +29,3 @@ public class SudokuApplication extends Application {
         launch(args);
     }
 }
-© 2020 GitHub, Inc.
